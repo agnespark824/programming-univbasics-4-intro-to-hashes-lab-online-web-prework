@@ -6,7 +6,7 @@ def my_hash
 person = { 
     :first_name = "Agnes,"
     :last_name = "Park"
-  }
+}
 end
 
 def pioneer
