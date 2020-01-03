@@ -1,24 +1,25 @@
-def new_hash
-  {} 
+def new_hash {
+  } 
 end
 
 def my_hash { 
-    :first_name = "Agnes",
-    :last_name = "Park"
+  :first_name = "Agnes",
+  :last_name = "Park"
   }
 end
 
 def pioneer {
-    :name = "Grace Hopper"  
+  :name = "Grace Hopper"  
   }
 end
 
-def id_generator
-  # return a hash with a key :id assigned to positive integer
+def id_generator {
+  :id = 3  
+  }
 end
 
 def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+  
 end
 
 def read_from_hash(hash, key)
