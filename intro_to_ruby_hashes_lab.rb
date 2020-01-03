@@ -3,10 +3,10 @@ def new_hash
 end
 
 def my_hash
-person = { 
+  person = { 
     :first_name = "Agnes,"
     :last_name = "Park"
-}
+  }
 end
 
 def pioneer
