@@ -2,8 +2,7 @@ def new_hash
   {} 
 end
 
-def my_hash
-  person = { 
+def my_hash { 
     :first_name = "Agnes",
     :last_name = "Park"
   }
