@@ -4,7 +4,7 @@ end
 
 def my_hash
   person = { 
-    :first_name = "Agnes,"
+    :first_name = "Agnes",
     :last_name = "Park"
   }
 end
