@@ -14,12 +14,13 @@ def pioneer {
 end
 
 def id_generator {
-  :id = 3  
+  :id = 3
   }
 end
 
-def my_hash_creator(key, value)
-  
+def my_hash_creator(key, value) {
+  ${"key"} = ${"value"}
+  }
 end
 
 def read_from_hash(hash, key)
